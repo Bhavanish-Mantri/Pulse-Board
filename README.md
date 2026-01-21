@@ -10,7 +10,7 @@ The project focuses on simplicity, clean structure, and intentional interaction 
 ## 🌐 Live Demo
 
 🔗 **View the live project here:**  
-https://bhavanish-mantri.github.io/Pulse-Board/
+
 
 ---
 
