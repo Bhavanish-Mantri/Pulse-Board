@@ -1,4 +1,4 @@
-# Levitate Board
+## ⚡Pulse Board
 
 Levitate Board is a minimalist interactive web experiment built using **HTML, CSS, and vanilla JavaScript**.  
 It presents a grid of squares that react to cursor movement with smooth color and glow effects, creating a subtle “levitating” visual experience.
@@ -10,7 +10,7 @@ The project focuses on simplicity, clean structure, and intentional interaction 
 ## 🌐 Live Demo
 
 🔗 **View the live project here:**  
-https://bhavanish-mantri.github.io/Levitate-board/
+https://bhavanish-mantri.github.io/Pulse-Board/
 
 ---
 
@@ -49,7 +49,7 @@ The purpose of this project is to:
 ## 📁 Project Structure
 
 ```
-Levitate-board
+Pulse-board
 ├── index.html       
 ├── style.css      
 ├── script.js
